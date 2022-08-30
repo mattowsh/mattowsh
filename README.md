@@ -1,5 +1,5 @@
 # <p align="center"> Hi! I'm Belén Matto, welcome to my GitHub 👋 </p>
-<p align="center"> I'm actually studying Software Engineering at Holberton School and Bachelor of Biological Sciences at Facultad de Ciencias, UdelaR. </p>
+<p align="center"> I'm actually student of Software Engineering at Holberton School and Bachelor of Biological Sciences at Facultad de Ciencias, UdelaR. </p>
 <div align="center">
   📍 Uruguay
 </div>
