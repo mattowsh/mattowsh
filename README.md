@@ -1,8 +1,8 @@
 # <p align="center"> Hi! I'm Belén Matto, welcome to my GitHub 👋 </p>
-<p align="center"> I'm actually student of Software Engineering at Holberton School and Bachelor of Biological Sciences at Facultad de Ciencias, UdelaR. </p>
-<div align="center">
-  📍 Uruguay
-</div>
+<p align="center">  Living the Holberton experience 🤠 </p>
+<p align="center"> Currently learning higher-level programming: </p>
+<p align="center"> Phyton | JSON | HTML | CSS | SQL </p>
+<p align="center"> 📍 Uruguay </p>
 
 #
 
@@ -37,6 +37,6 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattowsh&layout=compact&theme=dark)
   
-  Last update: 29 aug, 2022 🚀
+  Last update: 2 sep, 2022 🚀
 
 </div>
