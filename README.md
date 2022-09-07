@@ -43,9 +43,7 @@
 
 <div align="center">
 
-  Presently learning and working in...
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattowsh&repo=holbertonschool-higher_level_programming&theme=dark)](https://github.com/mattowsh/holbertonschool-higher_level_programming)
+<h3 align="center"> Presently learning and working in... </h3>
   
   Last update: 6 sep, 2022 🚀
 
