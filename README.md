@@ -1,4 +1,10 @@
 # <p align="center"> Hi! I'm Belén Matto, welcome to my GitHub 👋 </p>
+<div align="center">
+  
+  <img src="https://s4.gifyu.com/images/ezgif.com-gif-maker-1ea1138c4981c4875.gif" alt="banner" width=60% heigth=60%></img></a>
+  
+</div>
+
 <p align="center">  Living the Holberton experience 🤠 </p>
 <p align="center"> Currently learning higher-level programming: </p>
 <p align="center"> Phyton | JSON | HTML | CSS | SQL </p>
