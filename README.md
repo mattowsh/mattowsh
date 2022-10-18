@@ -46,7 +46,7 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattowsh&repo=holbertonschool-web_front_end&theme=dark)](https://github.com/mattowsh/holbertonschool-web_front_end)
   
-  Last update: 27 sep, 2022 🚀
+  Last update: 18 oct, 2022 🚀
 
 </div>
 
