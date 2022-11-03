@@ -23,7 +23,9 @@
 
 ### <p align="center"> **Technologies and Tools** </p>
 <div align="center">
+  <a  href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width=5% heigth=5%></img></a>
   <a  href="https://www.cprogramming.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C Language" width=5% heigth=5%></img></a>
+  <a  href="https://github.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" alt="HTML5" width=5% heigth=5%></img></a>
   <a  href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="BASH" width=5% heigth=5%></img></a>
   <a  href="https://www.rstudio.com/"><img src="https://www.fileeagle.com/data/2021/05/RStudio.png" alt="R Studio logo" width=5% heigth=5%></img></a>
   <a  href="https://git-scm.com/"><img src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" alt="Git logo" width=5% heigth=5%></img></a>
