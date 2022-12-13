@@ -49,7 +49,7 @@
 
 <h3 align="center"> Currently learning and working in... </h3>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattowsh&repo=holbertonschool-back-end&theme=dark)](https://github.com/mattowsh/holbertonschool-back-end)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattowsh&repo=javascript-web_scraping&theme=dark)](https://github.com/mattowsh/javascript-web_scraping)
   
   Last update: 3 dic, 2022 🚀
 
