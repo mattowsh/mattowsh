@@ -4,8 +4,6 @@
 
 <br>
 <p align="center">  Living the Holberton experience 🤠 </p>
-<p align="center"> Currently learning higher-level programming:</p>
-<p align="center"> JavaScript | Docker | Jenkins </p>
 <p align="center"> 📍 Uruguay </p>
 
 #
